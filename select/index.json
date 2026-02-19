@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Stranger Things（feat. ワンリパブリック）",
+  "base_artist": "Kygo",
+  "createdAt": "2026-02-19T10:36:53.131444Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Stranger Things (feat. OneRepublic)",
+      "artist": "Kygo feat. OneRepublic",
+      "has_synced": true,
+      "path": "select/01_Stranger_Things_(feat._OneRepublic)_Kygo_feat._OneRepublic.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Stranger Things (Feat. OneRepublic)",
+      "artist": "Kygo",
+      "has_synced": true,
+      "path": "select/02_Stranger_Things_(Feat._OneRepublic)_Kygo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Stranger Things (feat. OneRepublic)",
+      "artist": "Kygo, OneRepublic",
+      "has_synced": true,
+      "path": "select/03_Stranger_Things_(feat._OneRepublic)_Kygo,_OneRepublic.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Stranger Things (feat. OneRepublic)",
+      "artist": "Kygo",
+      "has_synced": true,
+      "path": "select/04_Stranger_Things_(feat._OneRepublic)_Kygo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Stranger Things feat. OneRepublic (Original Mix)",
+      "artist": "Kygo feat. OneRepublic",
+      "has_synced": true,
+      "path": "select/05_Stranger_Things_feat._OneRepublic_(Original_Mix)_Kygo_feat._OneRepublic.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Stranger Things (feat. OneRepublic) (Alan Walker Remix)",
+      "artist": "Kygo",
+      "has_synced": true,
+      "path": "select/06_Stranger_Things_(feat._OneRepublic)_(Alan_Walker_Remix)_Kygo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Stranger Things (feat",
+      "artist": "Kygo",
+      "has_synced": true,
+      "path": "select/07_Stranger_Things_(feat_Kygo.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Stranger Things (feat",
+      "artist": "Kygo & Alan Walker",
+      "has_synced": true,
+      "path": "select/08_Stranger_Things_(feat_Kygo_&_Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Stranger Things (feat. OneRepublic) - Alan Walker Remix",
+      "artist": "Kygo, OneRepublic, Alan Walker",
+      "has_synced": true,
+      "path": "select/09_Stranger_Things_(feat._OneRepublic)_-_Alan_Walker_Remix_Kygo,_OneRepublic,_Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Stranger Things (feat. OneRepublic) (Alan Walker Remix)",
+      "artist": "Alan Walker",
+      "has_synced": true,
+      "path": "select/10_Stranger_Things_(feat._OneRepublic)_(Alan_Walker_Remix)_Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Stranger Things (feat. OneRepublic)",
+      "artist": "Kygo",
+      "has_synced": true,
+      "path": "select/11_Stranger_Things_(feat._OneRepublic)_Kygo.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Stranger Things (feat. OneRepublic) (Alan Walker Remix)",
+      "artist": "Kygo / OneRepublic",
+      "has_synced": true,
+      "path": "select/12_Stranger_Things_(feat._OneRepublic)_(Alan_Walker_Remix)_Kygo___OneRepublic.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Stranger Things (feat. OneRepublic)",
+      "artist": "Kygo, OneRepublic",
+      "has_synced": true,
+      "path": "select/13_Stranger_Things_(feat._OneRepublic)_Kygo,_OneRepublic.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Stranger Things (Feat. Ubiquitous)",
+      "artist": "Joey Cool",
+      "has_synced": false,
+      "path": "select/14_Stranger_Things_(Feat._Ubiquitous)_Joey_Cool.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Stranger Things (feat. Chris Brown)",
+      "artist": "Joyner Lucas",
+      "has_synced": true,
+      "path": "select/15_Stranger_Things_(feat._Chris_Brown)_Joyner_Lucas.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Stranger Things (feat. OneRepublic)",
+      "artist": "Kygo",
+      "has_synced": true,
+      "path": "select/16_Stranger_Things_(feat._OneRepublic)_Kygo.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Stranger Things (Feat. Zahara)",
+      "artist": "Leiva",
+      "has_synced": true,
+      "path": "select/17_Stranger_Things_(Feat._Zahara)_Leiva.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Stranger Things (feat. OneRepublic) - Alan Walker Remix",
+      "artist": "Kygo",
+      "has_synced": true,
+      "path": "select/18_Stranger_Things_(feat._OneRepublic)_-_Alan_Walker_Remix_Kygo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Stranger Things",
+      "artist": "Kygo",
+      "has_synced": false,
+      "path": "select/pl_01_Stranger_Things_Kygo.txt"
+    }
+  ]
+}
